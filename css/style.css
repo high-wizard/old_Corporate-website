@@ -228,6 +228,12 @@ a:hover::after {
     }
 }
 
+@media (max-width: 767px) {
+    .conA p {
+        font-size: 12px;
+    }
+}
+
 /* コンテンツB：　お知らせ */
 .conB {
     background-color: #5D9AB2;
